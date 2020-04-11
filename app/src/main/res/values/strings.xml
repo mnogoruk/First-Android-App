@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HackTest</string>
+    <string name="true_button">правда</string>
+    <string name="false_button">Ложь</string>
+    <string name="incorrect_toast">Не правильно</string>
+    <string name="correct_toast">Правильно</string>
+    <string name="next_button">След. вопрос</string>
+    <string name="question_australia">Канбера столица Австралии?</string>
+    <string name="question_oceans">Тихий океан больше Атлатического.</string>
+    <string name="question_africa">Исток реки Нил нахдится в Египте.</string>
+    <string name="question_asia">Озеро Байкал самое шлибокое и старое озеро с пресной водой.</string>
+    <string name="question_americas">Река Амазонка - самая длинная река в Америке.</string>
+    <string name="question_mideast">Канал Суэз находится на границе Красного моря и Индийского океана.</string>
+    <string name="warning_text">Уверены, что хотите сделать это?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="cheat_button">Чит</string>
+</resources>
